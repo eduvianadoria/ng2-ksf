@@ -1,22 +1,24 @@
 {
-  "name": "ng2-fone",
+  "name": "ng2-ksf",
   "version": "1.0.0",
-  "description": "Get the marketname of a phone from it's model number.",
-  "main": "bundles/ng2-fone.umd.js",
+  "description": "Ng-KSF module to work in Angular 2",
+  "main": "bundles/ng2-ksf.umd.js",
   "module": "index.js",
   "typings": "index.d.ts",
   "keywords": [
     "angular",
     "angular2",
-    "angular 2"
+    "angular 2",
+    "ksf",
+    "components angular 2"
   ],
-  "author": "Rajayogan",
+  "author": "eduardodoria",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rajayogan/ng2-fone.git"
+    "url": "https://github.com/eduvianadoria/ng2-ksf.git"
   },
-  "homepage": "https://www.tphangout.com",
+  "homepage": "https://github.com/eduvianadoria/",
   "peerDependencies": {
     "@angular/core": "^2.4.0",
     "reflect-metadata": "^0.1.8",
