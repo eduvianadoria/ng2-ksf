@@ -1,0 +1,26 @@
+{
+  "name": "ng2-fone",
+  "version": "1.0.0",
+  "description": "Get the marketname of a phone from it's model number.",
+  "main": "bundles/ng2-fone.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2"
+  ],
+  "author": "Rajayogan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajayogan/ng2-fone.git"
+  },
+  "homepage": "https://www.tphangout.com",
+  "peerDependencies": {
+    "@angular/core": "^2.4.0",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.1",
+    "zone.js": "^0.7.2"
+  }
+}
