@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/backend/response-all.ts"],"names":[],"mappings":"AAAA;IAAA;IAKA,CAAC;IAAD,kBAAC;AAAD,CALA,AAKC,IAAA","file":"response-all.js","sourceRoot":"","sourcesContent":["export class ResponseAll {\r\n\r\n    count: number;\r\n    rows: Object[];\r\n    versao_obsoleta: boolean;\r\n}"]}

@@ -6,5 +6,13 @@ export default {
   moduleName: 'ng2-ksf',
   globals: {
     '@angular/core': 'ng.core',
+    '@angular/http': 'ng.http',
+    '@angular/common': 'ng.common',
+    '@angular/forms': 'ng.forms',
+    '@ng-bootstrap/ng-bootstrap': 'ng-bootstrap',
+  },
+  onwarn: function (message) {
+    return;
+    //console.error(message);
   }
 }
