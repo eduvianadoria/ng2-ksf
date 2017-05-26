@@ -25,7 +25,7 @@ var ColumnType = (function () {
     });
     Object.defineProperty(ColumnType.prototype, "class", {
         get: function () {
-            return this._className + ' ' + this._classNameSort;
+            return (this._className != null ? this._className : '') + ' ' + this._classNameSort;
         },
         enumerable: true,
         configurable: true

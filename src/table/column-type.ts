@@ -16,7 +16,7 @@ export class ColumnType {
     }
 
     get class(): string {
-        return this._className + ' ' + this._classNameSort;
+        return (this._className != null ? this._className : '') + ' ' + this._classNameSort;
     }
 
     get classNameSort(): string {
