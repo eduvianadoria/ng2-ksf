@@ -1,6 +1,6 @@
 {
   "name": "ng2-ksf",
-  "version": "1.1.5",
+  "version": "1.2.3",
   "description": "Welcome to the Angular version of the Angular UI KSF",
   "main": "dist/bundles/ng2-ksf.umd.js",
   "scripts": {
